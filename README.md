@@ -1,2 +1,2 @@
 # LearningPython
-ipythonのNotebookを使って，Pythonを学ぶ
+ipythonのNotebookを使ってPythonを学ぶ
